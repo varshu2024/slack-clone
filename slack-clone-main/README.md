@@ -111,15 +111,5 @@ CLIENT_URL=http://localhost:5173/
 MIT License
 
 
-## 👨‍💻 Developer
-
-<div align="center">
-  
-**Asad Ali**  
-*Full Stack Web Developer*
-
-[![Email](https://img.shields.io/badge/Email-message.asadali@gmail.com-blue.svg)](mailto:message.asadali@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/asadaliofficials/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/asadaliofficials)
 
 </div>
